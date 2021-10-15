@@ -1,91 +1,10 @@
 [
 {
-"ques" : "The larynx in adults lies in front of hypopharynx opposite the...",
-"a" : "second to fifth cervical vertebrae",
-"b" : "fifth to seventh cervical vertebrae",
-"c" : "third to sixth cervical vertebrae",
-"d" : "first two cervical vertebrae",
-"ans" : "c"
-},
-
-{
-"ques" : "Which of the following is the largest cartilage of larynx?",
-"a" : "thyroid cartilage",
-"b" : "cricoid cartilage",
-"c" : "arytenoid cartilages",
-"d" : "epiglottis",
-"ans" : "a"
-},
-
-{
-"ques" : "Which one of the following muscles is not a depressor of larynx?",
-"a" : "sternohyoid",
-"b" : "stylohyoid",
-"c" : "sternothyroid",
-"d" : "omohyoid",
-"ans" : "b"
-},
-
-{
-"ques" : "Barrets esophagus result in which type of carcinoma?",
-"a" : "Adenocarcinoma",
-"b" : "Squamous",
-"c" : "Adenosquamous",
-"d" : "Basal cell carcinoma",
-"ans" : "a"
-},
-
-{
-"ques" : "ADAM TS 13 is associated with",
-"a" : "TTP",
-"b" : "Churg Strauss",
-"c" : "Wegener",
-"d" : "Membranous nephropathy",
-"ans" : "a"
-},
-
-{
-"ques" : "T1/2 of Haptaglobin-Hb complex is",
-"a" : "5 days",
-"b" : "3 days",
-"c" : "10 days",
-"d" : "10 minutes",
-"ans" : "d"
-},
-
-{
-"ques" : "E-cadherin mutation is seen in which type of carcinoma?",
-"a" : "IDC",
-"b" : "Lobular carcinoma",
-"c" : "Metaplastic carcinoma",
-"d" : "Metastatic",
-"ans" : "b"
-},
-
-{
-"ques" : "Classical pathway Macrophage activating molecule?",
-"a" : "IFN gamma",
-"b" : "IL 13",
-"c" : "IL 4",
-"d" : "IL 1",
-"ans" : "a"
-},
-
-{
-"ques" : "Massive blood transfusion will cause all except?",
-"a" : "Hypercalcemia",
-"b" : "Hyperkalemia",
-"c" : "Hypokalemia",
-"d" : "Hypothermia",
-"ans" : "a"
-},
-
-{
-"ques" : "Durcks granuloma seen in?",
-"a" : "Spleen",
-"b" : "Heart",
-"c" : "Brain",
-"d" : "Lymphnode",
-"ans" : "c"
+"q" : "How many keywords in c language?",
+"a" : "31",
+"b" : "32",
+"c" : "1",
+"d" : "101",
+"n" : "b"
 }
 ]
